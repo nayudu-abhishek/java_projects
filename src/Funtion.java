@@ -19,7 +19,6 @@ public class Funtion {
         name = sname;
         return  name;
     }
-
     public static void main(String[] args) {
         Funtion fn = new Funtion(100,"jhon");
         System.out.println(fn.getId());
