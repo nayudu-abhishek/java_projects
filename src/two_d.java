@@ -11,7 +11,6 @@ public class two_d {
         for(int i = 0;i<r;i++){
             for(int j = 0;j<c;j++){
                 arr[i][j] = sc.nextInt();
-//                System.out.println(arr[i][j]);
             }
         }
         for(int i = 0;i<r;i++){
