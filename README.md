@@ -44,3 +44,4 @@ where
 del
 start .
 
+git reset --abort
