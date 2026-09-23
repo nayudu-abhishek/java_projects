@@ -44,4 +44,5 @@ where
 del
 start .
 
-this is merging conflict 
+this is merging conflict
+git reset --abort
