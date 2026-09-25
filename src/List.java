@@ -1,10 +1,11 @@
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.LinkedList;
 
 public class List {
     public static void main(String[] args) {
-        ArrayList<Integer> li = new ArrayList<>();
+        LinkedList<Integer> li = new LinkedList<>();
         li.add(1);
         li.add(2);
         li.add(3);
